@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 
-REPO_NAME = "Movie-Recommender-System-Using-Machine-Learning"
-AUTHOR_USER_NAME = "Mohit"
+REPO_NAME = "coding-raja-technologies-internship"
+AUTHOR_USER_NAME = "MohitKapoor19"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = ['streamlit']
 
