@@ -64,16 +64,17 @@ conda activate movie
 ```
 
 
-### STEP 02- install the requirements
+### STEP 02- Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
+### STEP 03- Run this file for Models
 
 Run this file to generate the models:
 
 [Recommender system.ipynb](https://github.com/MohitKapoor19/coding-raja-technologies-internship/blob/main/data%20cleaning/Recommender%20system.ipynb)
 
-
+### STEP 04- Locally Deploy the App
 Now run,
 ```bash
 streamlit run app.py
