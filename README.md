@@ -1,12 +1,17 @@
-# Project: Movie Recommender System Using Machine Learning!
+# Movie Recommender System - Internship Project
+
 This project is a Streamlit web application developed during my internship with Coding Raja. It recommends movies similar to those of user interest using machine learning algorithms and the TMDB API for fetching movie posters and additional details. Users can interactively select a movie, and the system suggests similar ones based on cosine similarity. The application also includes a demo video showcasing its functionality. Additionally, users can view visual representations of the project's workflow and download the recommendation model for further use.
 
-Features
-*Movie Recommendations: Get suggestions based on user-selected movies.
-*TMDB API Integration: Fetch movie posters and additional movie details.
-*Interactive UI: Built with Streamlit for a user-friendly interface.
-*Downloadable Model: Save and use the recommendation model for further analysis.
+## Features
 
+* **Movie Recommendations**: Get suggestions based on user-selected movies.
+
+* **TMDB API Integration**: Fetch movie posters and additional movie details.
+
+* **Interactive UI**: Built with Streamlit for a user-friendly interface.
+
+* **Downloadable Model**: Save and use the recommendation model for further analysis
+  
 # About this project:
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
