@@ -64,7 +64,7 @@ https://github.com/MohitKapoor19/coding-raja-technologies-internship
   ```bash
     conda create -n venv python=3.12.4 -y
     conda activate venv
-    ```
+  ```
 
 ### STEP 02- Install the requirements
 ```bash
