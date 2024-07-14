@@ -49,7 +49,7 @@ Here is a working demo of my project:
 
 4 . It will be a value between [0,1]. If it is 0 then both vectors are complete different. But in the place of that if it is 1, It will be completely similar.
 
-5 . For more details , check URL : https://www.learndatasci.com/glossary/cosine-similarity/
+5 . For more details , check URL : https://naomy-gomes.medium.com/the-cosine-similarity-and-its-use-in-recommendation-systems-cb2ebd811ce1
 
 # How to run?
 ### STEPS:
