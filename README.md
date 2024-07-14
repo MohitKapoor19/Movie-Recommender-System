@@ -41,15 +41,15 @@ Here is a working demo of my project:
 
 # Concept used to build the similarity.pkl file : similarity
 
-1 . Cosine Similarity is a metric that allows you to measure the similarity of the documents.
+1.Cosine Similarity is a metric that measures the similarity between documents.
 
-2 . In order to demonstrate cosine similarity function we need vectors. Here vectors are numpy array.
+2.In order to demonstrate the cosine similarity function, we need vectors. Here, the vectors are numpy arrays.
 
-3 . Finally, Once we have vectors, We can call cosine_similarity() by passing both vectors. It will calculate the cosine similarity between these two.
+3.Once we have the vectors, we can call the cosine_similarity() function by passing both vectors. This function will calculate the cosine similarity between the two.
 
-4 . It will be a value between [0,1]. If it is 0 then both vectors are complete different. But in the place of that if it is 1, It will be completely similar.
+4.The result will be a value between 0 and 1. A value of 0 indicates that the vectors are completely different, whereas a value of 1 indicates that they are completely similar.
 
-5 . For more details , check URL : https://naomy-gomes.medium.com/the-cosine-similarity-and-its-use-in-recommendation-systems-cb2ebd811ce1
+5.For more details, please refer to the relevant documentation.check URL : https://naomy-gomes.medium.com/the-cosine-similarity-and-its-use-in-recommendation-systems-cb2ebd811ce1
 
 # How to run?
 ### STEPS:
@@ -59,24 +59,21 @@ Clone the repository
 ```bash
 https://github.com/MohitKapoor19/coding-raja-technologies-internship
 ```
-### STEP 01- Create a conda environment after opening the repository
+### STEP 01- Execute the following commands in the terminal:l
 
   ```bash
-    conda create -n venv python=3.12.4 -y
-    conda activate venv
+    pip install -r .\requirements.txt
+    
+    python.exe -m pip install --upgrade pip
   ```
 
-### STEP 02- Install the requirements
-```bash
-pip install -r requirements.txt
-```
-### STEP 03- Run this file for Models
+### STEP 02- Run this file for Models
 
 Run this file to generate the models:
 
 [Recommender system.ipynb](https://github.com/MohitKapoor19/coding-raja-technologies-internship/blob/main/data%20cleaning/Recommender%20system.ipynb)
 
-### STEP 04- Locally Deploy the App
+### STEP 03- Locally Deploy the App
 Now run,
 ```bash
 streamlit run app.py
