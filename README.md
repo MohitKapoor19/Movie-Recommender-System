@@ -61,14 +61,10 @@ https://github.com/MohitKapoor19/coding-raja-technologies-internship
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
-```bash
-conda create -n movie python=3.12.4 -y
-```
-
-```bash
-conda activate movie
-```
-
+  ```bash
+    conda create -n venv python=3.12.4 -y
+    conda activate venv
+    ```
 
 ### STEP 02- Install the requirements
 ```bash
