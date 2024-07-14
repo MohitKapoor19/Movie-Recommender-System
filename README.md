@@ -1,9 +1,11 @@
 # Project: Movie Recommender System Using Machine Learning!
-This project is a Streamlit web application developed during my internship with Coding Raja. It recommends movies similar to those of user interest using machine learning algorithms. Users can interactively select a movie, and the system suggests similar ones based on cosine similarity. The application also includes a demo video showcasing its functionality. Additionally, users can view visual representations of the project's workflow and download the recommendation model for further use.
+This project is a Streamlit web application developed during my internship with Coding Raja. It recommends movies similar to those of user interest using machine learning algorithms and the TMDB API for fetching movie posters and additional details. Users can interactively select a movie, and the system suggests similar ones based on cosine similarity. The application also includes a demo video showcasing its functionality. Additionally, users can view visual representations of the project's workflow and download the recommendation model for further use.
 
-Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
-
-The purpose of a recommendation system basically is to search for content that would be interesting to an individual. Moreover, it involves a number of factors to create personalised lists of useful and interesting content specific to each user/individual. Recommendation systems are Artificial Intelligence based algorithms that skim through all possible options and create a customized list of items that are interesting and relevant to an individual. These results are based on their profile, search/browsing history, what other people with similar traits/demographics are watching, and how likely are you to watch those movies. This is achieved through predictive modeling and heuristics with the data available.
+Features
+Movie Recommendations: Get suggestions based on user-selected movies.
+TMDB API Integration: Fetch movie posters and additional movie details.
+Interactive UI: Built with Streamlit for a user-friendly interface.
+Downloadable Model: Save and use the recommendation model for further analysis.
 
 # About this project:
 
