@@ -91,12 +91,12 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/MohitKapoor19/coding-raja-technologies-internship
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n movie python=3.7.10 -y
+conda create -n movie python=3.12.4 -y
 ```
 
 ```bash
@@ -113,8 +113,8 @@ pip install -r requirements.txt
 ```bash
 
 # Run this file to generate the models
-
-Check out this [Recommender system](data%20cleaning/Recommender%20system.ipynb) for more information.
+Recommender system.ipynb
+Link-https://github.com/MohitKapoor19/coding-raja-technologies-internship/blob/main/data%20cleaning/Recommender%20system.ipynb
 
 
 ```
