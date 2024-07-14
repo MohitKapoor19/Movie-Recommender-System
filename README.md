@@ -59,6 +59,13 @@ here is a demo,
 
 * [Click here to run it live on server](https://movie-recommeder-system.herokuapp.com/)
 
+* <h4>Video: Demonstration</h4>
+<video width="70%" controls>
+  <source src="demo/running_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 # Demo:
 
