@@ -113,7 +113,8 @@ pip install -r requirements.txt
 ```bash
 #run this file to generate the models
 
-Movie Recommender System Data Analysis.ipynb
+Check out this [Recommender system](data%20cleaning/Recommender%20system) for more information.
+
 ```
 
 Now run,
@@ -122,9 +123,4 @@ streamlit run app.py
 ```
 
 
-```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
 
-```
