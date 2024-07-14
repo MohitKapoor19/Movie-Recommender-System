@@ -33,7 +33,7 @@ Here is a working demo of my project:
 
 * [Dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
-# Concept used to build the model.pkl file : cosine_similarity
+# Concept used to build the similarity.pkl file : cosine_similarity
 
 1 . Cosine Similarity is a metric that allows you to measure the similarity of the documents.
 
