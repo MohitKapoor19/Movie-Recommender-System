@@ -69,15 +69,10 @@ conda activate movie
 pip install -r requirements.txt
 ```
 
+Run this file to generate the models:
 
-```bash
+[Recommender system.ipynb](https://github.com/MohitKapoor19/coding-raja-technologies-internship/blob/main/data%20cleaning/Recommender%20system.ipynb)
 
-# Run this file to generate the models
-Recommender system.ipynb
-Link-https://github.com/MohitKapoor19/coding-raja-technologies-internship/blob/main/data%20cleaning/Recommender%20system.ipynb
-
-
-```
 
 Now run,
 ```bash
