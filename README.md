@@ -62,11 +62,18 @@ here is a demo,
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
+<h4>Image 1: Workflow Step 1</h4>
+<img src="demo/demo (1).png" alt="workflow" width="70%">
 
-<img src="demo/2.png" alt="workflow" width="70%">
+<br>
 
-<img src="demo/3.png" alt="workflow" width="70%">
+<h4>Image 2: Workflow Step 2</h4>
+<img src="demo/demo (2).png" alt="workflow" width="70%">
+
+<br>
+
+<h4>Image 3: Workflow Step 3</h4>
+<img src="demo/demo (3).png" alt="workflow" width="70%">
 
 
 # Dataset has been used:
