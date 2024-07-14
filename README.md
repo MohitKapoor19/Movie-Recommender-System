@@ -52,6 +52,11 @@ Here is a working demo of my project:
 5.For more details, please refer to the relevant documentation.check URL : https://naomy-gomes.medium.com/the-cosine-similarity-and-its-use-in-recommendation-systems-cb2ebd811ce1
 
 # How to run?
+
+### STEPS TO FOLLOW
+
+Follow these steps and you can reference from this [video][https://youtu.be/matPnZq-Ncs] 
+
 ### STEP 01:
 
 Clone the repository
