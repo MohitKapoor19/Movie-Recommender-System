@@ -6,7 +6,7 @@ This project is a Streamlit web application developed during my internship with 
 
 * **Movie Recommendations**: Get suggestions based on user-selected movies.
 
-* **TMDB API Integration**: Fetch movie posters and additional movie details.
+* **TMDB API Integration**: Fetch movie posters and additional movie details.For more details [test_cases.ipynb](https://github.com/MohitKapoor19/coding-raja-technologies-internship/blob/main/data%20cleaning/test_cases.ipynb)
 
 * **Interactive UI**: Built with Streamlit for a user-friendly interface.
 
