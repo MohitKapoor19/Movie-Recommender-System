@@ -55,7 +55,7 @@ Here is a working demo of my project:
 
 ### STEPS TO FOLLOW
 
-Follow these steps and you can reference from this [video][https://youtu.be/matPnZq-Ncs] 
+Follow these steps and you can reference from this [video](https://youtu.be/matPnZq-Ncs)
 
 ### STEP 01:
 
