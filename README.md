@@ -17,7 +17,7 @@ This project is a web application developed during my internship with Coding Raj
 This is a web application that can recommend various kinds of similar movies based on an user interest.
 Here is a working demo of my project:
 
-* [Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=gTy2vlySS_Q)
+* [Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=sUSU4Iw7nqY)
 
 # WorkFlow:
 
