@@ -113,7 +113,7 @@ pip install -r requirements.txt
 ```bash
 #run this file to generate the models
 
-Check out this [Recommender system](data%20cleaning/Recommender%20system) for more information.
+Check out this [Recommender system](data cleaning/Recommender system.ipynb) for more information.
 
 ```
 
