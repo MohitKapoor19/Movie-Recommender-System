@@ -55,19 +55,11 @@ The purpose of a recommendation system basically is to search for content that w
 # About this project:
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
-here is a demo,
+Here is a working demo of my project:
 
-* [Click here to run it live on server](https://movie-recommeder-system.herokuapp.com/)
+* [Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=gTy2vlySS_Q)
 
-* <h4>Video: Demonstration</h4>
-<video width="70%" controls>
-  <source src="demo/running_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
-# Demo:
+# WorkFlow:
 
 <h4>Image 1: Workflow Step 1</h4>
 <img src="demo/demo (1).png" alt="workflow" width="70%">
