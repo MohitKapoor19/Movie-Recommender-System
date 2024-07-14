@@ -21,6 +21,6 @@ setup(
     author_email="mohit22csu349@ncuindia.edu",
     packages=[SRC_REPO],
     license="MIT",
-    python_requires=">=3.7",
+    python_requires=">=3.12.4",
     install_requires=LIST_OF_REQUIREMENTS
 )
