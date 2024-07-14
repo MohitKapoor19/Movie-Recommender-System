@@ -1,6 +1,5 @@
 # Project: Movie Recommender System Using Machine Learning!
-
-
+This project is a Streamlit web application developed during my internship with Coding Raja. It recommends movies similar to those of user interest using machine learning algorithms. Users can interactively select a movie, and the system suggests similar ones based on cosine similarity. The application also includes a demo video showcasing its functionality. Additionally, users can view visual representations of the project's workflow and download the recommendation model for further use.
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
