@@ -6,7 +6,7 @@ This project is a web application developed during my internship with Coding Raj
 
 * **Movie Recommendations**: Get suggestions based on user-selected movies.
 
-* **TMDB API Integration**: Fetch movie posters and additional movie details.For more details [test_cases.ipynb](https://github.com/MohitKapoor19/coding-raja-technologies-internship/blob/main/data%20cleaning/test_cases.ipynb)
+* **TMDB API Integration**: Fetch movie posters and additional movie details. For more details [test_cases.ipynb](https://github.com/MohitKapoor19/coding-raja-technologies-internship/blob/main/data%20cleaning/test_cases.ipynb)
 
 * **Interactive UI**: Built with Streamlit for a user-friendly interface.
 
@@ -14,7 +14,7 @@ This project is a web application developed during my internship with Coding Raj
   
 # About this project:
 
-This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
+This is a web application that can recommend various kinds of similar movies based on an user interest.
 Here is a working demo of my project:
 
 * [Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=gTy2vlySS_Q)
