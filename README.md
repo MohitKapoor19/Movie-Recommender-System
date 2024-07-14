@@ -52,14 +52,14 @@ Here is a working demo of my project:
 5.For more details, please refer to the relevant documentation.check URL : https://naomy-gomes.medium.com/the-cosine-similarity-and-its-use-in-recommendation-systems-cb2ebd811ce1
 
 # How to run?
-### STEPS:
+### STEP 01:
 
 Clone the repository
 
 ```bash
 https://github.com/MohitKapoor19/coding-raja-technologies-internship
 ```
-### STEP 01- Execute the following commands in the terminal:l
+### STEP 02- Execute the following commands in the terminal:l
 
   ```bash
     pip install -r .\requirements.txt
@@ -67,13 +67,13 @@ https://github.com/MohitKapoor19/coding-raja-technologies-internship
     python.exe -m pip install --upgrade pip
   ```
 
-### STEP 02- Run this file for Models
+### STEP 03- Run this file for Models
 
 Run this file to generate the models:
 
 [Recommender system.ipynb](https://github.com/MohitKapoor19/coding-raja-technologies-internship/blob/main/data%20cleaning/Recommender%20system.ipynb)
 
-### STEP 03- Locally Deploy the App
+### STEP 04- Locally Deploy the App
 Now run,
 ```bash
 streamlit run app.py
