@@ -5,6 +5,7 @@ This project is a web application developed during my internship with Coding Raj
 # FRAUD DETECTION IN FINANCIAL TRANSACTIONS- Internship Project 2
 ## Project Introduction
 [Click here for the task 2]
+
 This project focuses on anomaly detection in credit card transactions, utilizing a dataset from Kaggle to identify fraudulent activities. The primary goal is to ensure that credit card companies can effectively recognize fraudulent transactions, thereby protecting customers from unauthorized charges.
 
 ## Context
