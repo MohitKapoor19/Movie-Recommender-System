@@ -10,6 +10,10 @@ During my internship at Coding Raja Technology, I worked on two major projects t
 
 This project is a web application that recommends movies similar to those of user interest using machine learning algorithms and the TMDB API for fetching movie posters and additional details. Users can interactively select a movie, and the system suggests similar ones based on similarity. The application also includes a demo video showcasing its functionality. Additionally, users can view visual representations of the project's workflow and download the recommendation model for further use.
 
+* [DEMO](https://www.youtube.com/watch?v=sUSU4Iw7nqY)
+* [DEPLOYMENT](https://youtu.be/matPnZq-Ncs)
+
+
 # Fraud Detection in financial transactions- Internship Project 2
 ## Project Introduction
 
