@@ -37,6 +37,14 @@ Detailed performance metrics and classification reports for each model will be p
 
 This thorough analysis aims to enhance the understanding and application of machine learning in the context of credit card fraud detection, ultimately contributing to more secure and reliable financial transactions.
 
+# About this project:
+
+This is a web application that can recommend various kinds of similar movies based on an user interest.
+Here is a working demo of my project:
+
+* [Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=sUSU4Iw7nqY)
+
+  
 ## Features
 
 * **Movie Recommendations**: Get suggestions based on user-selected movies.
@@ -47,13 +55,6 @@ This thorough analysis aims to enhance the understanding and application of mach
 
 * **Downloadable Model**: Save and use the recommendation model for further analysis
   
-# About this project:
-
-This is a web application that can recommend various kinds of similar movies based on an user interest.
-Here is a working demo of my project:
-
-* [Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=sUSU4Iw7nqY)
-
 # WorkFlow:
 
 <h4>Image 1: Workflow Step 1</h4>
