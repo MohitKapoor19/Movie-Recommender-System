@@ -38,7 +38,7 @@ Detailed performance metrics and classification reports for each model will be p
 This thorough analysis aims to enhance the understanding and application of machine learning in the context of credit card fraud detection, ultimately contributing to more secure and reliable financial transactions.
 
 
-#About the Movie Recommender System:
+# About the Movie Recommender System:
 
 This is a web application that can recommend various kinds of similar movies based on an user interest.
 Here is a working demo of my project:
