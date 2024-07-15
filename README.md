@@ -1,6 +1,6 @@
 # Movie Recommender System - Internship Project 1
 
-This project is a web application developed during my internship with Coding Raja. It recommends movies similar to those of user interest using machine learning algorithms and the TMDB API for fetching movie posters and additional details. Users can interactively select a movie, and the system suggests similar ones based on similarity. The application also includes a demo video showcasing its functionality. Additionally, users can view visual representations of the project's workflow and download the recommendation model for further use.
+This project is a web application that recommends movies similar to those of user interest using machine learning algorithms and the TMDB API for fetching movie posters and additional details. Users can interactively select a movie, and the system suggests similar ones based on similarity. The application also includes a demo video showcasing its functionality. Additionally, users can view visual representations of the project's workflow and download the recommendation model for further use.
 
 # Fraud Detection in financial transactions- Internship Project 2
 ## Project Introduction
