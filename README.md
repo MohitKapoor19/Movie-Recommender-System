@@ -2,6 +2,36 @@
 
 This project is a web application developed during my internship with Coding Raja. It recommends movies similar to those of user interest using machine learning algorithms and the TMDB API for fetching movie posters and additional details. Users can interactively select a movie, and the system suggests similar ones based on similarity. The application also includes a demo video showcasing its functionality. Additionally, users can view visual representations of the project's workflow and download the recommendation model for further use.
 
+# FRAUD DETECTION IN FINANCIAL TRANSACTIONS- Internship Project 1
+## Project Introduction
+
+This project focuses on anomaly detection in credit card transactions, utilizing a dataset from Kaggle to identify fraudulent activities. The primary goal is to ensure that credit card companies can effectively recognize fraudulent transactions, thereby protecting customers from unauthorized charges.
+
+## Context
+Credit card fraud detection is crucial for safeguarding customers and preventing financial losses. This dataset, comprising transactions made by European cardholders in September 2013, spans two days and includes a total of 284,807 transactions. Notably, it features 492 instances of fraud, which account for a mere 0.172% of all transactions, highlighting the significant class imbalance.
+
+## Content
+The dataset consists solely of numerical input variables derived from a Principal Component Analysis (PCA) transformation. Due to confidentiality concerns, original features and detailed background information are not provided. The key features include:
+- **V1, V2, ..., V28:** Principal components from PCA transformation.
+- **Time:** Seconds elapsed between each transaction and the first transaction in the dataset.
+- **Amount:** The transaction amount, useful for cost-sensitive learning.
+- **Class:** The response variable, where 1 indicates fraud and 0 indicates a legitimate transaction.
+
+## Objective
+The project aims to identify fraudulent credit card transactions using machine learning algorithms. Given the severe class imbalance, traditional accuracy metrics are insufficient. Instead, the Area Under the Precision-Recall Curve (AUPRC) is recommended for a more meaningful assessment of the model's performance.
+
+## Methodology
+The project involves:
+- Preprocessing the dataset to handle the class imbalance.
+- Training various machine learning models, including Support Vector Machine (SVM) and Random Forest.
+- Evaluating model performance using metrics like AUPRC, precision, recall, and F1-score.
+- Comparing the performance of different models to identify the most effective approach for fraud detection.
+
+## Insights and Results
+Detailed performance metrics and classification reports for each model will be provided. The project will also include visual representations of the results and downloadable versions of the trained models for further use.
+
+This thorough analysis aims to enhance the understanding and application of machine learning in the context of credit card fraud detection, ultimately contributing to more secure and reliable financial transactions.
+
 ## Features
 
 * **Movie Recommendations**: Get suggestions based on user-selected movies.
