@@ -1,4 +1,4 @@
-# About the Movie Recommender System:
+# Movie Recommender System:
 
 
 This application is designed to provide personalized movie recommendations based on user interests. By selecting a movie, users can receive suggestions for similar movies that match the themes, genres, and characteristics of their chosen title. The system leverages advanced machine learning techniques to analyze movie metadata, such as genres, keywords, cast, and crew, to calculate the similarity between different films. With a simple, interactive interface, users can explore new content effortlessly, discovering movies aligned with their preferences.
