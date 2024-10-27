@@ -1,6 +1,12 @@
 # About the Movie Recommender System:
 
-This is a web application that can recommend various kinds of similar movies based on an user interest.
+
+This application is designed to provide personalized movie recommendations based on user interests. By selecting a movie, users can receive suggestions for similar movies that match the themes, genres, and characteristics of their chosen title. The system leverages advanced machine learning techniques to analyze movie metadata, such as genres, keywords, cast, and crew, to calculate the similarity between different films. With a simple, interactive interface, users can explore new content effortlessly, discovering movies aligned with their preferences.
+
+The recommendation engine is built using a **cosine similarity algorithm** applied to vectorized movie features, enabling it to deliver relevant suggestions based on complex, multi-dimensional data points. Additionally, integration with the **TMDB API** enhances user experience by displaying posters, summaries, and other movie-specific information, making each recommendation more insightful and engaging.
+
+This project is a demonstration of how machine learning models and data-rich APIs can be combined to create an engaging, practical tool that makes media discovery easier for users.
+
 Here is a working demo of my project:
 
 * [Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=sUSU4Iw7nqY)
